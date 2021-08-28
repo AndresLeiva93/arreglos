@@ -9,3 +9,5 @@ puts a
 #Muestro el arreglo en orden inverso
 puts a.reverse
 
+#contar objetos dentro del arreglo
+puts a.length
