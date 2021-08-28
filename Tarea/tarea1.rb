@@ -1,3 +1,4 @@
+
 #Muestra el valor 0
 a = [1,2,3,4,5]
 puts a.at(0)
@@ -15,3 +16,6 @@ puts a.length
 #Ordenar alfebeticamente
 b = [3,4,2,5]
 puts b.sort
+
+#Corta un arreglo
+puts b.slice(1,2)
