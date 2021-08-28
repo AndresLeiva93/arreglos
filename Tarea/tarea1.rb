@@ -11,3 +11,7 @@ puts a.reverse
 
 #contar objetos dentro del arreglo
 puts a.length
+
+#Ordenar alfebeticamente
+b = [3,4,2,5]
+puts b.sort
