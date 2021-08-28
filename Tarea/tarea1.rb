@@ -25,3 +25,8 @@ puts b.shuffle
 
 #Unir arreglo
 puts b.join
+
+#insertar elemento en arreglo
+c = [1,2,3,4]
+c.insert(1,5)
+puts c
