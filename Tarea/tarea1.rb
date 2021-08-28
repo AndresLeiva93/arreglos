@@ -19,3 +19,6 @@ puts b.sort
 
 #Corta un arreglo
 puts b.slice(1,2)
+
+#Desordenar un arreglo
+puts b.shuffle
